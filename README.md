@@ -1,1 +1,5 @@
 # E-Farming
+In this project we provide a system which help farmers to fertilize their crops in a procedural manner. This system is designed in such a way that a message is sent to mobile saying that what pesticides, fertilizers are to be applied to crop. For example there are two seasons for crop cultivation such as Kharif  and  Rabi. This project provides details about which pesticides are to be applied on what type of crops and at what time.The user has to be enrolled so as to get the messages. 
+                         This system also defines climatic conditions based on seasons. The farmers can also check the system for details about crop fertilizers. As there are many different ways to cultivate crops and all the farmers may or may not know all the required fertilizers to be used. They may know some of them and some ways to cultivate and this may or may not give desired output. So we provide the details to the farmers to fertilize their crops in a procedural manner and clearing there doubts through mailing or by messaging.
+
+

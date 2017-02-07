@@ -1,0 +1,4 @@
+Open Visualstudio and select file 
+Open website
+Browse project location
+Click open
